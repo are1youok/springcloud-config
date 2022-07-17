@@ -1,2 +1,2 @@
-server:
-  port: 10086
+config:
+  info: "main branch,springcloud-config/config-prod.yml version=1"
